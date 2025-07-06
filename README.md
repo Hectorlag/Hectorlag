@@ -25,7 +25,7 @@ RESTful APIs • MySQL • MVC Architecture
 
 **DevOps & Tools**
 ```bash
-Docker • Maven • Git • Linux • Postman • IntelliJ IDEA
+Docker • Maven • Git  • Postman • IntelliJ IDEA
 ```
 
 **Frontend**
