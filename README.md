@@ -17,20 +17,20 @@
 
 ## 🛠️ Arsenal Técnico
 
-**Backend Core** `80% competencia`
+**Backend Core** 
 ```java
 Spring Boot • Spring Security • Spring Data JPA
 RESTful APIs • MySQL • MVC Architecture
 ```
 
-**DevOps & Tools** `65% competencia`
+**DevOps & Tools**
 ```bash
 Docker • Maven • Git • Linux • Postman • IntelliJ IDEA
 ```
 
-**Frontend** `55% competencia`
+**Frontend**
 ```javascript
-Vue.js • JavaScript ES6+ • HTML5/CSS3
+• JavaScript ES6+ • HTML5/CSS3
 ```
 
 ---
