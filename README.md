@@ -43,7 +43,6 @@ Docker • Maven • Git • Linux • Postman • IntelliJ IDEA
 **Mi implementación:** Sistema de gestión para taller electrónico (proyecto personal)
 - ⚡ **Backend:** API REST con Spring Boot + arquitectura MVC por capas
 - 🗄️ **Base de datos:** MySQL con diseño normalizado y 8+ entidades relacionadas  
-- 🔐 **Seguridad:** Implementación de Spring Security + validación de datos
 - 📊 **Features:** CRUD completo para clientes, productos, órdenes, presupuestos
 
 **Aprendizajes clave:** Arquitectura escalable, manejo de relaciones complejas, optimización de queries
@@ -52,7 +51,7 @@ Docker • Maven • Git • Linux • Postman • IntelliJ IDEA
 **Proyecto de aprendizaje en e-commerce**
 - 💳 Sistema de gestión de pedidos y productos
 - 👥 Arquitectura multiusuario con roles diferenciados
-- 📦 Control de inventario con validaciones
+- 📦 Búsqueda dinámica de productos
 
 ### 🔐 [Auth System](https://github.com/Hectorlag/thymeleaf-auth-system)
 **Exploración de Spring Security**
