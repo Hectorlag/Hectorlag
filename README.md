@@ -1,4 +1,4 @@
-# 👨‍💻 Héctor Lag | Backend Engineer
+# 👨‍💻 Héctor Lag | Backend Developer
 
 ## 🚀 Construyo sistemas backend robustos que resuelven problemas reales
 
