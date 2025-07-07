@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Arsenal Técnico
+## 🛠️ Stack Técnico
 
 **Backend Core** 
 ```java
